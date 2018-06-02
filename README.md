@@ -1,4 +1,8 @@
-# W2018-507-Project2
+# National site web crawler and searching program
+
+- offer interactive search function
+- offer plotting function using keywords(by state, by site name) 
+
 
 Please see the [project instructions](https://docs.google.com/document/d/11gzeq9F2IyoEabrBxMLEwGUSpertsTPlEqw-0uYHppY/edit?usp=sharing).
 
